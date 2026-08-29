@@ -8,7 +8,7 @@ This repository contains **all my solved assignments** from the **Saylani Mass I
 
 ## 📋 About the Course
 
-- **Program**: Artificial Intelligence & Data Science  
+- **Program**: Artificial Intelligence & Data Science. 
 - **Institute**: Saylani Mass IT Training (SMIT)  
 - **Duration**: 6–12 months (depending on batch)  
 - **Focus**: Python, NumPy, Pandas, Data Visualization, Statistics, Machine Learning, Deep Learning & more
