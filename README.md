@@ -23,4 +23,4 @@ SMIT-AI-Data-Science-Assignments/
 ├── Projects/
 ├── README.md
 ├── LICENSE
-└── .gitignor
+└── .gitignore
